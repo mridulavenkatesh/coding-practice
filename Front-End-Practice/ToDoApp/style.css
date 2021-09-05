@@ -1,0 +1,25 @@
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.title {
+    color: green;
+}
+
+.new-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-button {
+    background-color: peachpuff;
+    color: black;
+    font-size: 20px;
+}
+
+#todo-input {
+    font-size: 30px;
+}
